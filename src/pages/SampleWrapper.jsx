@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import SamplesPage from "./SamplesPage";
 import Loader from "../components/Loader/Loader";
 
