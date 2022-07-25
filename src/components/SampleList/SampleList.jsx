@@ -1,5 +1,5 @@
-import Sample from "../Sample/Sample";
-import "./SampleList.css";
+import Sample from '../Sample/Sample';
+import './SampleList.css';
 
 const SampleList = ({ samples }) => {
   return (

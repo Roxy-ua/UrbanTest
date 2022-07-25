@@ -1,4 +1,4 @@
-import "./Sample.css";
+import './Sample.css';
 
 const Sample = ({ imageUrl, label, subLabel, description }) => {
   return (

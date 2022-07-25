@@ -1,5 +1,5 @@
-import SampleWrapper from "../../pages/SampleWrapper";
-import "./Main.css";
+import SampleWrapper from '../../pages/SampleWrapper';
+import './Main.css';
 
 const Main = () => {
   return (

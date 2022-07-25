@@ -1,9 +1,9 @@
-import { useState, useMemo } from "react";
-import SampleList from "../components/SampleList/SampleList";
-import Input from "../components/Input/Input";
+import { useState, useMemo } from 'react';
+import SampleList from '../components/SampleList/SampleList';
+import Input from '../components/Input/Input';
 
 function SamplesPage({ samples }) {
-  const [filterString, setFilterString] = useState("");
+  const [filterString, setFilterString] = useState('');
 
   const filteredSamples = useMemo(() => {
     return samples.filter((item) =>
