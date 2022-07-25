@@ -1,0 +1,22 @@
+.logo {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+  font-size: 2rem;
+  padding: 0;
+  text-decoration: none;
+  padding-top: 8px;
+}
+
+.blue_header {
+  background-color: #2196f3 !important;
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2);
+  min-height: 56px;
+  height: auto;
+}
+
+nav {
+  padding: 0 1rem;
+  display:block;
+}
+
